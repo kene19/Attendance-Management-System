@@ -39,7 +39,7 @@
 <h5>2.Add Attendance Record:</h5>
  <ul>
    <li>Fill in the name, ID, and select the date.</li>
-   <li>Click the "Submit" button to add the record.</li>
+   <li>Click the "+Add" button to add the record.</li>
  </ul>
 <h5>3.Mark Attendance:</h5>
  <ul>
