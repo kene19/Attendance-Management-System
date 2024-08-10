@@ -34,7 +34,7 @@
 <h2 align="left" id="Usage">Usage</h2>
 <h5>1.open by this link</h5>
 <ul>
-   <li><a href="">Attendance Management System</a></li>
+   <li><a href="https://kene19.github.io/Attendance-Management-System/">Attendance Management System</a></li>
  </ul>
 <h5>2.Add Attendance Record:</h5>
  <ul>
